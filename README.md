@@ -1,2 +1,2 @@
-# Mario-Bros10
+# Projeto-Mario-Bros
 Realizei esse programa utilizando HTML,CSS e JAVASCRIPT.
